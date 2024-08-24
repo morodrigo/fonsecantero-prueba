@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f7f7f7;
+    margin: 0;
+}
+
+.auth-container {
+    width: 100%;
+    max-width: 450px;
+    background: #ffffff;
+    padding: 2em;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.ui.header {
+    margin-bottom: 1.5em;
+}
+
+.toggle-link {
+    text-align: center;
+    margin-top: 1em;
+}
